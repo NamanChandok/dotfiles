@@ -10,7 +10,7 @@
 
 **Shell:** ZSH
 
-List of GNOME Extensions:
+**List of GNOME Extensions:**
 - AppIndicator and KStatusNotification Support
 - BlurMyShell
 - Caffeine
