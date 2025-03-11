@@ -8,7 +8,7 @@
 	},
 	"logo": {
 		"type": "file-raw",
-		"source": "${HOME}/.config/fastfetch/vader.txt",
+		"source": "${HOME}/.config/fastfetch/gojo.txt",
 		"padding": {
 			"left": 2
 		}
