@@ -8,6 +8,8 @@
 
 **Terminal:** Ghostty
 
+**Shell:** ZSH
+
 List of GNOME Extensions:
 - AppIndicator and KStatusNotification Support
 - BlurMyShell
@@ -19,7 +21,5 @@ List of GNOME Extensions:
 - Media Controls
 - Tiling Shell
 
-ZSH PROMPT
-```
-PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg[yellow]%}%~ %{$reset_color%}%% "
-```
+![image](https://github.com/user-attachments/assets/02c60bb7-6aca-4326-9448-6b3e77f250c4)
+![image](https://github.com/user-attachments/assets/7d7f8ede-2788-4832-a639-b265393cedb3)
