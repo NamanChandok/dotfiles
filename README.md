@@ -1,8 +1,11 @@
 # Nobara dotfiles
 
 **OS:** Nobara Linux
+
 **DM:** GNOME
+
 **Browser:** Zen
+
 **Terminal:** Ghostty
 
 List of GNOME Extensions:
