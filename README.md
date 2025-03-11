@@ -18,3 +18,8 @@ List of GNOME Extensions:
 - Logo Menu
 - Media Controls
 - Tiling Shell
+
+ZSH PROMPT
+```
+PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg[yellow]%}%~ %{$reset_color%}%% "
+```
