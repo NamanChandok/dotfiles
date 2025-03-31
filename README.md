@@ -6,6 +6,8 @@
 
 **Browser:** Zen
 
+**IDE:** Zeditor
+
 **Terminal:** Ghostty
 
 **Shell:** ZSH
@@ -15,11 +17,12 @@
 - BlurMyShell
 - Caffeine
 - Clipboard Indicator
+- Color Picker
 - Dash to Dock
 - Just Perfection
 - Logo Menu
 - Media Controls
 - Tiling Shell
 
-![image](https://github.com/user-attachments/assets/02c60bb7-6aca-4326-9448-6b3e77f250c4)
-![image](https://github.com/user-attachments/assets/7d7f8ede-2788-4832-a639-b265393cedb3)
+![image](https://github.com/user-attachments/assets/660e8679-2aad-4243-bddd-49e4ca9b6e31)
+![image](https://github.com/user-attachments/assets/4e8089d7-e562-4a6e-b970-d5b11b09b18f)
