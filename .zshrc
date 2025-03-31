@@ -27,11 +27,13 @@ autoload -Uz vcs_info
 precmd() { vcs_info }
 zstyle ':vcs_info:git:*' formats '(%F{red}%B%b%f %%b)'
 setopt PROMPT_SUBST
-PROMPT='%B %F{red}%b%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{yellow}►%b%f '
-# PROMPT='%B%F{#5044ad}%1"Nightfire:%f %F{white}%1~%f%b:${vcs_info_msg_0_}%B%%%b '
+PROMPT='%F{red}󰌽%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{yellow}►%b%f '
 
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 zstyle ':completion:*' list-colors '${(s.:.)LS_COLORS}'
 eval $(thefuck --alias)
 alias ls='ls --color=auto'
 alias py="python"
+alias bruh="fastfetch"
+
+export PATH=$HOME/.local/bin:$PATH

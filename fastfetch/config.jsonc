@@ -3,102 +3,113 @@
 	"general": {
 		"multithreading": true
 	},
+	// "settings"
 	"display": {
-		"separator": "➜  "
+		"separator": " "
 	},
+	// "logo": {
+	// 	"type": "file-raw",
+	// 	"source": "${HOME}/.config/fastfetch/gojo.txt",
+	// 	"padding": {
+	// 		"left": 2
+	// 	}
+	// },
 	"logo": {
-		"type": "file-raw",
-		"source": "${HOME}/.config/fastfetch/gojo.txt",
+		"type": "kitty",
+		"source": "${HOME}/.config/fastfetch/nobara.png",
 		"padding": {
-			"left": 2
-		}
+			"left": 2,
+			"top": 1
+		},
+		"width": 40
 	},
 	"modules": [
 		"break",
+		"break",
 		{
 			"type": "title",
-			"format": "    {6}{7}{8}",
+			"format": "     {6}{7}{8}",
 			"outputColor": "magenta"
 		},
 		{
 			"type": "custom",
-			"format": "┌───────────────────────────────────────────────────────────────────────────┐" // `\u001b` is `\033`, or `\e`
+			"format": "─────────────────────────────────────────────────────────────────────" // `\u001b` is `\033`, or `\e`
 		},
 		{
-			"key": "    OS        ",
-			"type": "os",
-			"keyColor": "magenta"
+			"type": "title",
+			"format": "   Hardware Information"
 		},
 		{
-			"key": "    Kernel    ",
-			"type": "kernel",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "    Packages  ",
-			"type": "packages",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "    Terminal  ",
-			"type": "terminal",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "    Shell     ",
-			"type": "shell",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "   󰍹 Display   ",
-			"type": "display",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "    WM        ",
-			"type": "wm",
-			"keyColor": "magenta"
-		},
-		{
-			"key": "   󰻠 CPU       ",
+			"key": "   󰍛 ",
 			"type": "cpu",
 			"keyColor": "magenta"
 		},
 		{
-			"key": "   󰍛 GPU       ",
+			"key": "   󰘚 ",
 			"type": "gpu",
 			"keyColor": "magenta"
 		},
 		{
-			"key": "   󰑭 Memory    ",
+			"key": "   󰟖 ",
 			"type": "memory",
 			"keyColor": "magenta"
 		},
 		{
-			"key": "    Battery   ",
-			"type": "battery",
-			"keyColor": "magenta"
-		},
-		{
-			"type": "command",
-			"key": "    OS Age    ",
-			"keyColor": "magenta",
-			"text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
-		},
-		{
-			"key": "   󰅐 Uptime    ",
-			"type": "uptime",
+			"key": "   󰍹 ",
+			"type": "display",
 			"keyColor": "magenta"
 		},
 		{
 			"type": "custom",
-			"format": "└───────────────────────────────────────────────────────────────────────────┘" // `\u001b` is `\033`, or `\e`
+			"format": "─────────────────────────────────────────────────────────────────────" // `\u001b` is `\033`, or `\e`
 		},
 		{
-			"type": "colors",
-			"paddingLeft": 3,
-			"symbol": "square"
+			"type": "title",
+			"format": "   Software Information"
 		},
+		{
+			"key": "    ",
+			"type": "os",
+			"keyColor": "magenta"
+		},
+		{
+			"key": "    ",
+			"type": "kernel",
+			"keyColor": "magenta"
+		},
+		{
+			"key": "    ",
+			"type": "wm",
+			"keyColor": "magenta"
+		},
+		{
+			"key": "    ",
+			"type": "terminal",
+			"keyColor": "magenta"
+		},
+		{
+			"key": "    ",
+			"type": "shell",
+			"keyColor": "magenta"
+		},
+		{
+			"key": "   󰊠 ",
+			"type": "packages",
+			"keyColor": "magenta"
+		},
+		{
+			"type": "custom",
+			"format": "─────────────────────────────────────────────────────────────────────" // `\u001b` is `\033`, or `\e`
+		},
+		{
+			"type": "custom",
+			"format": "   \u001b[37m󰮯    \u001b[31m󰊠    \u001b[32m󰊠    \u001b[33m󰊠    \u001b[34m󰊠    \u001b[35m󰊠    \u001b[36m󰊠    \u001b[90m󰊠"
+		},
+		// {
+		// 	"type": "colors",
+		// 	"paddingLeft": 3,
+		// 	"symbol": "square"
+		// },
 		"break"
 	]
 }
