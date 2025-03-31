@@ -6,6 +6,8 @@
 
 **Browser:** Zen
 
+**IDE:** Zeditor
+
 **Terminal:** Ghostty
 
 **Shell:** ZSH
@@ -15,6 +17,7 @@
 - BlurMyShell
 - Caffeine
 - Clipboard Indicator
+- Color Picker
 - Dash to Dock
 - Just Perfection
 - Logo Menu
