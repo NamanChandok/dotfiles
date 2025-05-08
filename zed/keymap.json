@@ -10,7 +10,8 @@
     "bindings": {
       "ctrl-k": null,
       "ctrl-k ctrl-o": "workspace::Open",
-      "ctrl-o": "workspace::OpenFiles"
+      "ctrl-o": "workspace::OpenFiles",
+      "ctrl-`": "workspace::NewCenterTerminal"
     }
   },
   {

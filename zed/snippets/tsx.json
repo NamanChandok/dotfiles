@@ -1,0 +1,32 @@
+{
+  // Each snippet must have a name and body, but the prefix and description are optional.
+  // The prefix is used to trigger the snippet, but when omitted then the name is used.
+  // Use placeholders like $1, $2 or ${1:defaultValue} to define tab stops.
+  // The $0 determines the final cursor position.
+  // Placeholders with the same value are linked.
+  "React Component": {
+    "prefix": "rfc",
+    "body": [
+      "import React from 'react';",
+      "export default function ${1:ComponentName}() {",
+      "  return (",
+      "    <div>${1:ComponentName}</div>",
+      "  );",
+      "}"
+    ],
+    "description": "Creates a React component"
+  },
+  "Typescript React Component": {
+    "prefix": "tsrfc",
+    "body": [
+      "import React from 'react';",
+      "type Props = {}",
+      "export default function ${1:ComponentName}({}:Props) {",
+      "  return (",
+      "    <div>${1:ComponentName}</div>",
+      "  );",
+      "}"
+    ],
+    "description": "Creates a React component with typescript"
+  }
+}

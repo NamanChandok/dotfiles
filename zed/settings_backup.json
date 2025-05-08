@@ -14,7 +14,7 @@
       "proxy": null,
       "proxy_no_verify": null
     },
-    "enabled_in_text_threads": false
+    "enabled_in_assistant": false
   },
   "icon_theme": "Catppuccin Latte",
   "features": {
@@ -28,15 +28,13 @@
     "light": "One Light",
     "dark": "GitHub Dark Default"
   },
-  "buffer_font_family": "JetBrains Mono",
-  "ui_font_family": "JetBrains Mono",
   "git_panel": {
     "default_width": 270
   },
   "project_panel": {
     "default_width": 270
   },
-  "agent": {
+  "assistant": {
     "default_model": {
       "provider": "copilot_chat",
       "model": "claude-3-7-sonnet"
