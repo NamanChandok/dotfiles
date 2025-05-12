@@ -17,7 +17,7 @@
 **Font:** Jetbrains Mono
 
 **List of GNOME Extensions:**
-- AppIndicator and KStatusNotification Support
+- Alphabetical App Grid
 - BlurMyShell
 - Caffeine
 - Clipboard Indicator
