@@ -2,6 +2,10 @@ theme = "monochrome.conf"
 keybind = ctrl+t=new_tab
 keybind = ctrl+w=close_tab
 keybind = ctrl+shift+r=reload_config
+keybind = ctrl+left=csi:1;5D
+keybind = ctrl+right=csi:1;5C
+keybind = ctrl+delete=csi:3;5~
+keybind = delete=csi:3~
 window-width = 120
 window-height = 30
 font-family = "JetBrainsMono Nerd Font"
@@ -9,4 +13,3 @@ window-padding-x = 8
 window-padding-y = 8
 window-padding-balance = true
 confirm-close-surface = false
-window-decoration = none

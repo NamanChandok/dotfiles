@@ -29,11 +29,29 @@ zstyle ':vcs_info:git:*' formats '(%F{red}%B%b%f %%b)'
 setopt PROMPT_SUBST
 PROMPT='%F{red}󰌽%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{yellow}►%b%f '
 
-zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
+autoload -Uz compinit && compinit
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' list-colors '${(s.:.)LS_COLORS}'
 eval $(thefuck --alias)
-alias ls='ls --color=auto'
+alias ls='ls --color=auto --group-directories-first'
 alias py="python"
 alias bruh="fastfetch"
+alias ff="fastfetch"
+alias bonsai="bonsai -T"
+alias cowsay="cowsay -f vader"
+alias yo="cd ~/Documents/yes"
+bindkey '^[[3~' delete-char
+bindkey "^[[1;5D" backward-word
+bindkey "^[[1;5C" forward-word
+bindkey "^[[3;5~" kill-word
+bindkey "^H" backward-kill-word
+
+export PATH=/usr/local/cuda-11.8/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH
 
 export PATH=$HOME/.local/bin:$PATH
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init - zsh)"
+
+export PATH=$PATH:/home/br0wot/.spicetify
