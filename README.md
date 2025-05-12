@@ -30,6 +30,5 @@
 - Tiling Shell
 - Window title is back
 
-![image](https://github.com/user-attachments/assets/3b29d3ef-2697-4aa5-ae71-837f6f547d72)
-![image](https://github.com/user-attachments/assets/9fdac348-67b4-400e-96b6-336063ad89b7)
-![image](https://github.com/user-attachments/assets/2d017101-ad6f-4eb5-afc0-7a4551ca9db5)
+![image](https://github.com/user-attachments/assets/7509a962-a2e4-4d2b-9a0a-d0388cfb21b0)
+![image](https://github.com/user-attachments/assets/5ee8ee42-67d3-49d8-876b-be4ec3ab3689)
