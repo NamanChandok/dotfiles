@@ -12,7 +12,7 @@
 
 **Shell:** ZSH
 
-**Icon Theme:** ![BigSur](https://github.com/yeyushengfan258/BigSur-icon-theme)
+**Icon Theme:** ![WhiteSur Alternate](https://github.com/vinceliuice/WhiteSur-icon-theme)
 
 **Font:** Jetbrains Mono
 
