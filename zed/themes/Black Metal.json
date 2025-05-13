@@ -55,7 +55,7 @@
         "editor.background": "#000000",
         "editor.gutter.background": "#000000",
         "editor.subheader.background": "#121212",
-        "editor.active_line.background": "#1212121a",
+        "editor.active_line.background": "#121212",
         "editor.highlighted_line.background": "#1212121a",
         "editor.line_number": "#444444",
         "editor.active_line_number": "#999999",
@@ -137,10 +137,15 @@
         "warning": "#aaaaaa",
         "warning.background": "#000000",
         "warning.border": "#222222",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#888888",
+            "selection": "#333333"
+          }
+        ],
         "syntax": {
           "boolean": {
-            "color": "#888888",
+            "color": "#5f8787",
             "font_style": null,
             "font_weight": null
           },
@@ -175,7 +180,7 @@
             "font_weight": 700
           },
           "function": {
-            "color": "#999999",
+            "color": "#5f8787",
             "font_style": null,
             "font_weight": null
           },
@@ -255,7 +260,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#888888",
+            "color": "#5f8787",
             "font_style": null,
             "font_weight": null
           }
