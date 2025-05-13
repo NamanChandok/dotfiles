@@ -27,7 +27,7 @@ autoload -Uz vcs_info
 precmd() { vcs_info }
 zstyle ':vcs_info:git:*' formats '(%F{red}%B%b%f %%b)'
 setopt PROMPT_SUBST
-PROMPT='%F{red}󰌽%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{yellow}►%b%f '
+PROMPT='%F{red}󰌽%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{red}►%b%f '
 
 autoload -Uz compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'

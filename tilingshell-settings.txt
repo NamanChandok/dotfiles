@@ -1,0 +1,10 @@
+[/]
+enable-blur-selected-tilepreview=false
+enable-blur-snap-assistant=false
+enable-smart-window-border-radius=false
+enable-window-border=false
+inner-gaps=uint32 6
+outer-gaps=uint32 6
+selected-layouts=[['Layout 4'], ['Layout 4']]
+show-indicator=false
+top-edge-maximize=true

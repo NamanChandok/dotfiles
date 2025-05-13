@@ -14,6 +14,8 @@
 
 **Icon Theme:** ![WhiteSur Alternate](https://github.com/vinceliuice/WhiteSur-icon-theme)
 
+**GTK Theme:** ![WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+
 **Font:** Jetbrains Mono
 
 **List of GNOME Extensions:**
@@ -28,6 +30,7 @@
 - moveclock
 - Open bar
 - Tiling Shell
+- User Themes
 - Window title is back
 
 ![image](https://github.com/user-attachments/assets/7509a962-a2e4-4d2b-9a0a-d0388cfb21b0)
