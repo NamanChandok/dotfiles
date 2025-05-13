@@ -16,6 +16,8 @@
 
 **GTK Theme:** ![WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
+**Cursor:** ![WinsSur Dark](https://github.com/yeyushengfan258/WinSur-dark-cursors)
+
 **Font:** Jetbrains Mono
 
 **List of GNOME Extensions:**
@@ -33,5 +35,6 @@
 - User Themes
 - Window title is back
 
-![image](https://github.com/user-attachments/assets/7509a962-a2e4-4d2b-9a0a-d0388cfb21b0)
-![image](https://github.com/user-attachments/assets/5ee8ee42-67d3-49d8-876b-be4ec3ab3689)
+![image](https://github.com/user-attachments/assets/fd7c8aa7-f969-4a4f-a439-af9fa6c2e05b)
+![image](https://github.com/user-attachments/assets/1dfb1682-1dde-4e32-88ff-2e1030571537)
+
