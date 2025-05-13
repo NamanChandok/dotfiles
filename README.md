@@ -35,6 +35,9 @@
 - User Themes
 - Window title is back
 
-![image](https://github.com/user-attachments/assets/fd7c8aa7-f969-4a4f-a439-af9fa6c2e05b)
-![image](https://github.com/user-attachments/assets/1dfb1682-1dde-4e32-88ff-2e1030571537)
+![image](https://github.com/user-attachments/assets/846299ae-79e3-48c6-9488-7114e6c81591)
+![image](https://github.com/user-attachments/assets/f3d81bb5-7cae-491b-8de9-59c3e1bef65d)
+![image](https://github.com/user-attachments/assets/6c7b58dd-84e9-431e-9b0c-b0b05cbaa1a6)
+
+
 
