@@ -40,6 +40,7 @@ alias ff="fastfetch"
 alias bonsai="bonsai -T"
 alias cowsay="cowsay -f vader"
 alias yo="cd ~/Documents/yes"
+alias tock="~/tty-clock/tty-clock -c -s"
 bindkey '^[[3~' delete-char
 bindkey "^[[1;5D" backward-word
 bindkey "^[[1;5C" forward-word
