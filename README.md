@@ -16,6 +16,8 @@
 
 **GTK Theme:** ![WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
+**Cursor:** ![WinsSur Dark](https://github.com/yeyushengfan258/WinSur-dark-cursors)
+
 **Font:** Jetbrains Mono
 
 **List of GNOME Extensions:**
