@@ -17,17 +17,17 @@
     {
       "type": "title",
       "keyWidth": 10,
-      "format": "  {6}{7}{8}",
+      "format": "  {6}{7}{8}",
     },
     "break",
     {
       "type": "os",
-      "key": " ",
+      "key": " ",
       "keyColor": "34", // = color4
     },
     {
       "type": "kernel",
-      "key": " ",
+      "key": " ",
       "keyColor": "34",
     },
     {
