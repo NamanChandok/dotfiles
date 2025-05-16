@@ -35,8 +35,9 @@
 - Window title is back
 
 ![image](https://github.com/user-attachments/assets/bc769391-ddf5-4379-a640-7fc6e374f607)
-![image](https://github.com/user-attachments/assets/aa16e60e-b2a6-47e7-ad24-d7df05fba92f)
-![image](https://github.com/user-attachments/assets/c08add85-991a-4ddb-b8dc-98568babddbd)
+![image](https://github.com/user-attachments/assets/46aff010-3612-4ac2-86a9-4cd9e2b2ec15)
+![image](https://github.com/user-attachments/assets/184f65e0-1f0f-404c-834e-582017d65fff)
+
 
 
 
