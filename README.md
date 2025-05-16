@@ -8,7 +8,7 @@
 
 **IDE:** Zeditor
 
-**Terminal:** Ghostty
+**Terminal:** Kitty
 
 **Shell:** ZSH
 
@@ -27,7 +27,6 @@
 - Clipboard Indicator
 - Color Picker
 - Dash to Dock
-- Logo Menu
 - Media Controls
 - moveclock
 - Open bar
@@ -35,9 +34,9 @@
 - User Themes
 - Window title is back
 
-![image](https://github.com/user-attachments/assets/846299ae-79e3-48c6-9488-7114e6c81591)
-![image](https://github.com/user-attachments/assets/f3d81bb5-7cae-491b-8de9-59c3e1bef65d)
-![image](https://github.com/user-attachments/assets/6c7b58dd-84e9-431e-9b0c-b0b05cbaa1a6)
+![image](https://github.com/user-attachments/assets/bc769391-ddf5-4379-a640-7fc6e374f607)
+![image](https://github.com/user-attachments/assets/aa16e60e-b2a6-47e7-ad24-d7df05fba92f)
+![image](https://github.com/user-attachments/assets/c08add85-991a-4ddb-b8dc-98568babddbd)
 
 
 
