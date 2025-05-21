@@ -23,17 +23,23 @@ setopt hist_save_no_dups
 setopt hist_ignore_dups
 setopt hist_find_no_dups
 
+export PATH=$PATH:/home/br0wot/bin
+source $(dirname $(gem which colorls))/tab_complete.sh
+alias ls='colorls --group-directories-first'
+alias ll='colorls --group-directories-first -l'
+
+autoload -Uz compinit
+compinit
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' # Case insensitive
+zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"   # Colorize completion
+
 autoload -Uz vcs_info
 precmd() { vcs_info }
 zstyle ':vcs_info:git:*' formats '(%F{red}%B%b%f %%b)'
 setopt PROMPT_SUBST
 PROMPT='%F{red}󰌽%f %F{blue}%n%B%f [%F{red}%b%.%B%f] %F{red}►%b%f '
 
-autoload -Uz compinit && compinit
-zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
-zstyle ':completion:*' list-colors '${(s.:.)LS_COLORS}'
 eval $(thefuck --alias)
-alias ls='ls --color=auto --group-directories-first'
 alias py="python"
 alias bruh="fastfetch"
 alias ff="fastfetch"
