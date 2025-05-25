@@ -61,22 +61,6 @@
     "updatedAt": "2025-03-31",
     "enabled": true
   },
-  "2bbe4f0d-f7af-460b-86de-cda893357813": {
-    "id": "2bbe4f0d-f7af-460b-86de-cda893357813",
-    "name": "Customized Popup",
-    "description": "The mod changes the pop-ups to more aesthetically pleasing ones.",
-    "homepage": "https://github.com/paasito/Zen-Mods/tree/main/customized-popup",
-    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2bbe4f0d-f7af-460b-86de-cda893357813/chrome.css",
-    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2bbe4f0d-f7af-460b-86de-cda893357813/readme.md",
-    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2bbe4f0d-f7af-460b-86de-cda893357813/image.png",
-    "author": "paasito",
-    "version": "1.0.0",
-    "tags": [],
-    "createdAt": "2025-03-26",
-    "updatedAt": "2025-03-31",
-    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2bbe4f0d-f7af-460b-86de-cda893357813/preferences.json",
-    "enabled": true
-  },
   "03a8e7ef-cf00-4f41-bf24-a90deeafc9db": {
     "id": "03a8e7ef-cf00-4f41-bf24-a90deeafc9db",
     "name": "Zen Colored Picker",
@@ -136,6 +120,24 @@
     "tags": [],
     "createdAt": "2024-12-21",
     "updatedAt": "2025-05-10",
+    "enabled": true
+  },
+  "81fcd6b3-f014-4796-988f-6c3cb3874db8": {
+    "id": "81fcd6b3-f014-4796-988f-6c3cb3874db8",
+    "name": "Zen Context Menu",
+    "description": "Declutter your right click menu, hide options you don't need",
+    "homepage": "https://github.com/KiKaraage/ZenMods/",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/81fcd6b3-f014-4796-988f-6c3cb3874db8/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/81fcd6b3-f014-4796-988f-6c3cb3874db8/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/81fcd6b3-f014-4796-988f-6c3cb3874db8/image.png",
+    "author": "KiKaraage",
+    "version": "2.0",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/81fcd6b3-f014-4796-988f-6c3cb3874db8/preferences.json",
+    "tags": [
+      "context menu"
+    ],
+    "createdAt": "2024-10-06",
+    "updatedAt": "2025-02-09",
     "enabled": true
   }
 }
