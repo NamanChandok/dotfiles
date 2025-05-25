@@ -12,11 +12,11 @@
 
 **Shell:** ZSH
 
-**Icon Theme:** ![WhiteSur Alternate](https://github.com/vinceliuice/WhiteSur-icon-theme)
+**Icon Theme:** [WhiteSur Alternate](https://github.com/vinceliuice/WhiteSur-icon-theme)
 
-**GTK Theme:** ![WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+**GTK Theme:** [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
-**Cursor:** ![WinsSur Dark](https://github.com/yeyushengfan258/WinSur-dark-cursors)
+**Cursor:** [WinsSur Dark](https://github.com/yeyushengfan258/WinSur-dark-cursors)
 
 **Font:** Jetbrains Mono
 
@@ -30,13 +30,13 @@
 - Media Controls
 - moveclock
 - Open bar
-- Tiling Shell
 - User Themes
 - Window title is back
 
-![image](https://github.com/user-attachments/assets/bc769391-ddf5-4379-a640-7fc6e374f607)
-![image](https://github.com/user-attachments/assets/46aff010-3612-4ac2-86a9-4cd9e2b2ec15)
-![image](https://github.com/user-attachments/assets/ce4ea3e4-6b0c-4f96-bb00-5a8d2d57347a)
+![image](https://github.com/user-attachments/assets/becf32a7-ef17-4982-b384-458de444bc4d)
+![image](https://github.com/user-attachments/assets/2622ddf7-b3a9-4bf6-83ad-f1827b93569b)
+![image](https://github.com/user-attachments/assets/e30c4b84-9280-4fcd-8ef4-5f16608b1944)
+
 
 
 
