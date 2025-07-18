@@ -14,30 +14,32 @@
       "proxy": null,
       "proxy_no_verify": null
     },
-    "enabled_in_assistant": false
+    "enabled_in_text_threads": false
   },
   "icon_theme": "Catppuccin Latte",
   "features": {
     "edit_prediction_provider": "zed"
   },
   "base_keymap": "VSCode",
-  "ui_font_size": 15,
-  "buffer_font_size": 14,
+  "ui_font_size": 14,
+  "buffer_font_size": 12,
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "GitHub Dark Default"
+    "dark": "Black Metal"
   },
+  "buffer_font_family": "FiraMono Nerd Font",
   "git_panel": {
     "default_width": 270
   },
   "project_panel": {
     "default_width": 270
   },
-  "assistant": {
+  "agent": {
+    "always_allow_tool_actions": true,
     "default_model": {
-      "provider": "copilot_chat",
-      "model": "claude-3-7-sonnet"
+      "provider": "zed.dev",
+      "model": "claude-sonnet-4"
     },
     "default_width": 350,
     "version": "2"
@@ -53,5 +55,8 @@
       "formatter": "language_server",
       "format_on_save": "on"
     }
+  },
+  "terminal": {
+    "font_family": "FiraMono Nerd Font"
   }
 }
