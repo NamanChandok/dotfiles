@@ -33,3 +33,5 @@
 - Open bar
 - User Themes
 - Window title is back
+
+<img style="width:100%" src="https://github.com/user-attachments/assets/b602309c-4011-4b27-b67e-020fbc028f10" />
