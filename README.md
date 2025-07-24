@@ -18,5 +18,5 @@
 
 ### Dependancies
 ```bash
-nm-applet nitrogen picom flameshot numlockxon kitty zed thunar
+nm-applet NetworkManager playerctl nitrogen picom flameshot numlockx kitty zed thunar
 ```
