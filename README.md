@@ -20,3 +20,8 @@
 ```bash
 nm-applet NetworkManager playerctl nitrogen picom flameshot numlockx kitty zed thunar
 ```
+
+### Obsidian Setup
+```bash
+cp .obsidian ~/Documents/Obsidian\ Vault/ -r
+```

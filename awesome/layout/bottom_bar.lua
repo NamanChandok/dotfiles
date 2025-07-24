@@ -97,9 +97,14 @@ awful.screen.connect_for_each_screen(function(s)
             },
             create_callback = function(self, c, index, objects)
                 if c.class == "dev.zed.Zed" then
-                    local icon_path = "/usr/share/pixmaps/zed.png"
-                    if gears.filesystem.file_readable(icon_path) then
-                        self:get_children_by_id("icon_role")[1].image = gears.surface.load_uncached(icon_path)
+                    local z_icon_path = "/usr/share/pixmaps/zed.png"
+                    if gears.filesystem.file_readable(z_icon_path) then
+                        self:get_children_by_id("icon_role")[1].image = gears.surface.load_uncached(z_icon_path)
+                    end
+                elseif c.class == "obsidian" then
+                    local ob_icon_path = "/usr/share/pixmaps/obsidian.png"
+                    if gears.filesystem.file_readable(ob_icon_path) then
+                        self:get_children_by_id("icon_role")[1].image = gears.surface.load_uncached(ob_icon_path)
                     end
                 else
                     self:get_children_by_id("icon_role")[1].image = gears.surface(c.icon)

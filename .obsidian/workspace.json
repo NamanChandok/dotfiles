@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ad87e18bc7878a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ec02366470f1b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747269d1c6fff9dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17c51de3b50cefe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bab075b2749105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e6903408f41e36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c28ec22c2c048d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c279fe09bf39a1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91d9dce7c7841289",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6f385d5a6fe474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf77e905e2a4ab5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "aab223a4e2edca94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0d71023f5dfce914",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e3e2d5dbc5e42b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "35e6903408f41e36",
+  "lastOpenFiles": [
+    "bruh/personal/Money.md",
+    "bruh/personal",
+    "bruh/novarroh/misc.md",
+    "bruh/novarroh/T1 auth.md",
+    "bruh/novarroh",
+    "bruh/college/WT Notes/images.png",
+    "bruh/college/WT Notes/WT.md",
+    "bruh/college/WT Notes/Unit 4.md",
+    "bruh/college/WT Notes/Unit 3.md",
+    "bruh/college/WT Notes/Unit 2.md",
+    "bruh/college/WT Notes/Unit 1.md",
+    "bruh/college/WT Notes",
+    "bruh/college/PME Notes/Unit 4.md",
+    "bruh/college/PME Notes/Unit 3.md",
+    "bruh/college/PME Notes/Unit 2.md",
+    "bruh/college/PME Notes/Unit 1.md",
+    "bruh/college/PME Notes/Pasted image 20250528181136.png",
+    "bruh/college/PME Notes/Pasted image 20250528181128.png",
+    "bruh/college/PME Notes/Pasted image 20250528181043.png",
+    "bruh/college/PME Notes/Pasted image 20250528181035.png",
+    "bruh/college/PME Notes/Pasted image 20250525121248.png",
+    "bruh/college/PME Notes/Pasted image 20250525121210.png",
+    "bruh/college/PME Notes/PME.md",
+    "bruh/college/PME Notes",
+    "bruh/college/AI Notes/utility-based-agent.png",
+    "bruh/college/AI Notes/utility-based-agent 1.png",
+    "bruh/college/AI Notes/steps-chart-of-state-space-search.webp",
+    "bruh/college/AI Notes/Unit 4.md",
+    "bruh/college/AI Notes/Unit 3.md",
+    "bruh/college/AI Notes/Unit 2.md",
+    "bruh/college/AI Notes/Unit 1.md",
+    "bruh/college/AI Notes/AI.md",
+    "bruh/college/AI Notes",
+    "bruh/college",
+    "bruh",
+    "Untitled",
+    "bruh/PME Notes/Unit 4.md",
+    "bruh/AI Notes/Unit 3.md",
+    "bruh/WT Notes/Unit 3.md",
+    "bruh/WT Notes/Unit 2.md",
+    "bruh/WT Notes/Unit 1.md",
+    "bruh/WT Notes/WT.md",
+    "bruh/WT Notes/Unit 4.md",
+    "bruh/WT Notes",
+    "bruh/PME Notes"
+  ]
+}
