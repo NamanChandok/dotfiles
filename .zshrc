@@ -37,8 +37,8 @@ zinit light zsh-users/zsh-completions
 
 eval $(thefuck --alias)
 alias py="python"
-alias bruh="fastfetch"
-alias ff="fastfetch"
+alias bruh="clear && fastfetch"
+alias ff="clear && fastfetch"
 alias yo="cd ~/Documents/yes"
 alias ls="ls --color=auto"
 bindkey '^[[3~' delete-char # del
