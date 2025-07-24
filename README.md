@@ -14,11 +14,11 @@
 
 **Greeter**: ly
 
-<img style="width:100%" src="https://github.com/user-attachments/assets/322df2f0-0cd0-4a4d-b461-17956f93cc0f" />
+<img style="width:100%" src="https://github.com/user-attachments/assets/4ac66493-f63b-4e3f-9168-6e55ae30ffe2" />
 
 ### Dependancies
 ```bash
-nm-applet NetworkManager playerctl nitrogen picom flameshot numlockx kitty zed thunar
+nm-applet NetworkManager playerctl nitrogen picom flameshot numlockx kitty zed thunar xdg-desktop-portal-gnome
 ```
 
 ### Obsidian Setup
