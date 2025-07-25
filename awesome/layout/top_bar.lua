@@ -53,7 +53,7 @@ mymainmenu = awful.menu({
         {},
         { "Terminal",     Terminal },
         { "Browser",      "flatpak run app.zen_browser.zen" },
-        { "File Manager", "thunar" },
+        { "File Manager", "nautilus" },
         {},
         { "Log Out",      function() awesome.quit() end },
         { "Power Off",    mypowermenu },
@@ -69,13 +69,6 @@ menubar.utils.Terminal = Terminal -- Set the Terminal for applications that requ
 
 mytextclock = wibox.widget.textclock()
 
-focused_app = wibox.widget {
-    widget = wibox.widget.textbox,
-    align = "center",
-    valign = "center",
-    font = "sans 8",
-    bg = "#000000"
-}
 
 local function rounded_container(widget, bg_color)
     return wibox.widget {
@@ -91,6 +84,15 @@ local function rounded_container(widget, bg_color)
         widget = wibox.container.background,
     }
 end
+
+
+focused_app = wibox.widget {
+    widget = wibox.widget.textbox,
+    align = "center",
+    valign = "center",
+    font = "sans 8",
+    bg = "#000000"
+}
 
 client.connect_signal("focus", function(c)
     focused_app.text = (c.name or "No Title")
