@@ -1,0 +1,5 @@
+@import url("resource:///org/gnome/theme/gtk.css");
+
+* {
+	border-radius: 0px;
+}
