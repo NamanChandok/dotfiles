@@ -101,10 +101,6 @@ awful.rules.rules = {
         properties = { titlebars_enabled = true, floating = true, placement = awful.placement.centered }
     },
     {
-        rule = { class = "Chromium" },
-        properties = { screen = 1, tag = "2" }
-    },
-    {
         rule = { name = "Picture-in-Picture" },
         properties = { placement = awful.placement.bottom_right }
     }
