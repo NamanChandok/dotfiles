@@ -10,24 +10,13 @@ beautiful.bg_systray                                = beautiful.bg_normal
 beautiful.fg_normal                                 = "#c1c1c1"
 beautiful.fg_focus                                  = "#eeeeee"
 
-beautiful.tasklist_bg_normal                        = "#0c0c0c"
-beautiful.tasklist_bg_focus                         = "#444444"
-beautiful.tasklist_bg_urgent                        = "#444444"
-beautiful.tasklist_bg_minimize                      = "#0a0a0a"
-beautiful.tasklist_fg_normal                        = "#666666"
-beautiful.tasklist_fg_focus                         = "#c1c1c1"
-beautiful.tasklist_fg_urgent                        = "#a06666"
-beautiful.tasklist_fg_minimize                      = "#333333"
-
 beautiful.border_normal                             = "#0c0c0c"
 beautiful.border_focus                              = "#222222"
 beautiful.border_marked                             = "#a06666"
 
 beautiful.taglist_bg_focus                          = "#333333"
-beautiful.taglist_bg_normal                         = "#0c0c0c"
 beautiful.taglist_bg_urgent                         = "#a06666"
 beautiful.taglist_fg_focus                          = "#eeeeee"
-beautiful.taglist_fg_normal                         = "#cccccc"
 beautiful.taglist_fg_urgent                         = "#000000"
 
 local taglist_square_size                           = dpi(0)

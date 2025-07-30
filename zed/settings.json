@@ -22,13 +22,14 @@
   },
   "base_keymap": "VSCode",
   "ui_font_size": 12,
+  "agent_font_size": 12,
   "buffer_font_size": 10,
   "theme": {
     "mode": "system",
     "light": "Black Metal",
     "dark": "Black Metal"
   },
-  "buffer_font_family": "FiraMono Nerd Font",
+  "buffer_font_family": "FiraCode Nerd Font",
   "git_panel": {
     "default_width": 270
   },
@@ -38,15 +39,10 @@
   "agent": {
     "always_allow_tool_actions": true,
     "default_model": {
-      "provider": "zed.dev",
-      "model": "claude-sonnet-4"
+      "provider": "copilot_chat",
+      "model": "gpt-4.1"
     },
-    "default_width": 350
-  },
-  "jupyter": {
-    "kernel_selections": {
-      "python": "ipykernel"
-    }
+    "default_width": 270
   },
   "languages": {
     "Python": {
@@ -56,6 +52,6 @@
     }
   },
   "terminal": {
-    "font_family": "FiraMono Nerd Font"
+    "font_family": "FiraCode Nerd Font"
   }
 }
