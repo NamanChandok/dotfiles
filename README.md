@@ -14,7 +14,8 @@
 
 **Greeter**: ly
 
-<img style="width:100%" src="https://github.com/user-attachments/assets/4ac66493-f63b-4e3f-9168-6e55ae30ffe2" />
+<img style="width:100%" src="https://github.com/user-attachments/assets/40699e55-7b7b-43e8-9123-0961e269cb32" />
+
 
 ### Dependancies
 ```bash
