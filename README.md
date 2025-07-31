@@ -4,7 +4,7 @@
 
 **Browser:** Zen
 
-**Terminal:** Kitty
+**Terminal:** Ghostty
 
 **Shell:** ZSH
 

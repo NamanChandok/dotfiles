@@ -1,0 +1,21 @@
+window-decoration = server
+
+theme = "monochrome.conf"
+keybind = ctrl+t=new_tab
+keybind = ctrl+w=close_tab
+keybind = ctrl+shift+r=reload_config
+keybind = ctrl+left=csi:1;5D
+keybind = ctrl+right=csi:1;5C
+keybind = ctrl+delete=csi:3;5~
+keybind = delete=csi:3~
+window-width = 110
+window-height = 28
+font-family = "FiraCode Nerd Font"
+font-size = 9
+window-padding-x = 8
+window-padding-y = 8
+window-padding-balance = true
+confirm-close-surface = false
+background-opacity = 0.85
+background-blur = true
+gtk-tabs-location = hidden
