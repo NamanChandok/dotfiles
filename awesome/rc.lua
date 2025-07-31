@@ -51,7 +51,7 @@ beautiful.init(gears.filesystem.get_themes_dir() .. "default/theme.lua")
 
 require("theme")
 -- This is used later as the default terminal and editor to run.
-Terminal = "kitty"
+Terminal = "ghostty"
 Editor = "zed" or "vim"
 Editor_cmd = Terminal .. " -e " .. Editor
 Browser = "flatpak run app.zen_browser.zen"
