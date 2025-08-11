@@ -30,6 +30,9 @@
     "dark": "Black Metal"
   },
   "buffer_font_family": "FiraCode Nerd Font",
+  "buffer_font_features": {
+    "calt": true
+  },
   "git_panel": {
     "default_width": 270
   },
