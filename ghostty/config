@@ -18,4 +18,3 @@ window-padding-balance = true
 confirm-close-surface = false
 background-opacity = 0.85
 background-blur = true
-gtk-tabs-location = hidden
